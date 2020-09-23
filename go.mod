@@ -1,3 +1,3 @@
-module github.com/spaceapegames/go-wavefront
+module github.com/emiiwongg/go-wavefront
 
 go 1.13
